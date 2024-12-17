@@ -25,4 +25,3 @@
 <p>We may update this privacy  statement to reflect changes to our information practices. If we make any  material changes we will notify you prior to the change becoming effective. We  encourage you to periodically review this page for the latest information on  our privacy practices.</p>
 <h2>Contact Vkus Music</h2>
 <p>If you have any questions about these Privacy Policy or our Application, please contact Vkus Music at&nbsp;<a href="mailto:vkusmusic@gmail.com">vkusmusic@gmail.com</a></p>
-</body>
